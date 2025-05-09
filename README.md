@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning **Golang**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> - **Telegram**: t.me/b1tfl0w
+<p align="left">
+Telegram: t.me/b1tfl0w
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
